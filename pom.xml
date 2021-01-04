@@ -20,7 +20,7 @@
     <module>server</module>
     <module>webapp</module>
   </modules>
-
+<!-- ranjangowda -->
   <distributionManagement>
     <site>
       <id>site-server</id>
