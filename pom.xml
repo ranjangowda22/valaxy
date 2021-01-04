@@ -120,7 +120,7 @@
           <artifactId>maven-release-plugin</artifactId>
           <version>2.2.1</version>
         </plugin>
-
+<!-- hello -->
         <plugin>
           <artifactId>maven-resources-plugin</artifactId>
           <version>2.5</version>
