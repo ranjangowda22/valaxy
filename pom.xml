@@ -28,7 +28,7 @@
       <url>file:///tmp/maven-project-site</url>
     </site>
   </distributionManagement>
-<!-- hi ragu -->
+<!-- hi ranjan -->
   <build>
     <plugins>
       <plugin>
